@@ -120,7 +120,7 @@ export default {
     left: 0;
     bottom: -14px;
     font-size: 8px;
-    color: #ff8484;
+    color: $red-color;
   }
 
   .required {
@@ -131,13 +131,13 @@ export default {
       top: 0;
       width: 4px;
       height: 4px;
-      background: #ff8484;
+      background: $red-color;
       border-radius: 50%;
     }
   }
 
   .input-error {
-    border: 1px solid #ff8484;
+    border: 1px solid $red-color;
   }
 }
 </style>

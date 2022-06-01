@@ -83,11 +83,11 @@ export default {
 
   &__text {
     margin-bottom: 16px;
-    color: #3f3f3f;
+    color: $text-color;
   }
 
   &__price {
-    color: #3f3f3f;
+    color: $text-color;
     font-size: 24px;
     margin-top: auto;
   }
@@ -106,7 +106,7 @@ export default {
     right: -16px;
     width: 32px;
     height: 32px;
-    background: #ff8484;
+    background: $red-color;
     border-radius: 12px;
     align-items: center;
     justify-content: center;
