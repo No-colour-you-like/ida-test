@@ -101,7 +101,6 @@ export default {
 }
 
 .wrapper {
-  height: 100vh;
   padding: 32px 32px 0;
   background: #faf9f7;
 
